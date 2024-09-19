@@ -1,6 +1,8 @@
 # ¡Hola! Soy Facu Gazar 😸
 
-![](https://media1.tenor.com/m/g-pvMhJfZxoAAAAC/paul-mccartney.gif)
+<p align="center">
+  <img align="center" src="https://media1.tenor.com/m/g-pvMhJfZxoAAAAC/paul-mccartney.gif"/>
+</p>
 
 
 ## Estudiante de la Facultad de Informática en la UNLP.
