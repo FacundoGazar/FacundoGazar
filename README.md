@@ -9,7 +9,7 @@
 
  Actualmente estoy cursando las últimas materias para recibirme de [**Analista Programador Universitario**](https://www.info.unlp.edu.ar/analista-programador-universitario-plan-2021/)  y con el objetivo de terminar la [**Licenciatura en Sistemas**](https://www.info.unlp.edu.ar/licenciatura-en-sistemas-plan-2021/).
 
- - Amante de Python, Olivia Rodrigo, los gatos y The Beatles. 🐈
+ - Amante de Python, Olivia Rodrigo, The Beatles y los gatos🐈
 ##
 ## Tecnologías
 
