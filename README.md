@@ -32,19 +32,6 @@
 		</tr>
 </div>
 
-##
-## Contactame por:
-
-<div align="center">
-  <a href="https://linkedin.com/in/facugazar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-manuel-gonzalez-96017026b" height="30" width="40" />
-  </a>
-    <a href="https://discordapp/users/4525" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9355" height="30" width="40" />
-  </a>
-</div>
-
-##
 ## Estadísticas
 
 <div align="center">
